@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Homepage: 🚧https://empitsu.me
+Homepage: 🚧https://empitsu.me  
 Blog: https://empitsu.hatenadiary.com/
 
