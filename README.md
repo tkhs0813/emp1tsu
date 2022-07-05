@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Homepage: 🚧https://empitsu.me
+Blog: https://empitsu.hatenadiary.com/
+
