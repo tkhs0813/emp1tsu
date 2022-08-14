@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Homepage: 🚧https://empitsu.me  
+Zenn: https://zenn.dev/necocat
 Blog: https://empitsu.hatenadiary.com/
 
