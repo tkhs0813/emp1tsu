@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Homepage: 🚧https://empitsu.me  
+Homepage: 🚧  
 Zenn: https://zenn.dev/necocat  
 Blog: https://empitsu.hatenadiary.com
 
